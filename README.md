@@ -11,6 +11,7 @@ npm run dev
 ```
 3) Open the local host address in the web-browser and you can see the visualization.
 
-![image](https://github.com/user-attachments/assets/6c794c68-615c-4ba1-86af-e4a77dfdff9d)
+![image](https://github.com/user-attachments/assets/26311032-7ccb-4808-8db7-7ef136c50cc5)
+
 
 
